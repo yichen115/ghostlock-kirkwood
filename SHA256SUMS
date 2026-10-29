@@ -1,0 +1,18 @@
+# SHA256SUMS -- ghostlock-kirkwood-oneclick public release
+# verify from this directory:  sha256sum -c SHA256SUMS
+a4968b9bb9fc451066e060d66739a2af5e05640827df8ddcd1ed46b32beb1150  ghostlock-kirkwood-oneclick.sh
+9af1500aff0d1688b21a05be5eed3af52832051ec3371786b65674bd89e63660  check-kirkwood.sh
+cfb3eb0ca46a05e6af66b9f6bc77c69a58a8efe38405080368695063ea01793a  README.md
+6fece141206eca3a58130557a040f3dac50391adb957636366ab179bd4a85d91  LICENSE
+5dd7990ba790df63c0e72fbb16155827aecde5e54fcf57d208e3c5a2f7be6235  NOTICE.md
+228b3f5ef3ea1e9caa39a4ea6073fb394a945fba977411377b1a60723473a40f  THIRD_PARTY_NOTICES.md
+137ed8ebf3a7f3db7ae7ed1cc16ba515ed0320f320ee428b98a6058c00e1b7ea  LICENSES/BSD-3-Clause-adblib.txt
+11c4a8b414a534365f02da7dad9dc3e471d35b15ed31df9d4006fb2a144c4443  LICENSES/GPL-2.0.txt
+230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809  LICENSES/GPL-3.0.txt
+2bb3ef3b012a992651771ab4a5b0b1f873cdd46de41332e0fd0ec9f8140d9c18  LICENSES/MIT-KernelSnitch.txt
+
+# Embedded bundle payload (after --extract-only):
+#   ghostlock-lab             f1a5e9894fd30e687170e0e3ddea2d41a1fb4f2bc5cbe82c93cc478596eb643d
+#   tcl-v643-mcast-helper     5ee0523fd08152295e74c86fb4bc9ceae41873f4b58331f0c33c4edd3eaadb19
+#   kirkwood_root_agent       969d0503fe491dc080fc26428de50d0a0fd8996a7b434a2e7db1003af14b9a8c
+#   kirkwood_root_sh          d768ef6061b938e06b7080f7d5c99ee32fcce8fe2424c40c104b6c70187e8641
